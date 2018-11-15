@@ -1,0 +1,5 @@
+flask
+pyspark
+redis
+datetime
+flask_restful
